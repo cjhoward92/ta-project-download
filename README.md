@@ -13,4 +13,9 @@ Run `yarn` in the project directory.
 To run, use `yarn start <PATH>`
 If the path does not exist it will shit.
 
+### Stuff we need
+
+See `repos.js` and `users.js`. We need a list of the homework repo names and the github usernames
+for each student...
+
 ### DON'T BE A DICK AND PR CODE WITH LINTER ERRORS!!!
