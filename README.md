@@ -12,3 +12,5 @@ Run `yarn` in the project directory.
 
 To run, use `yarn start <PATH>`
 If the path does not exist it will shit.
+
+# DON'T BE A DICK AN PR CODE WITH LINTER ERRORS!!!
