@@ -18,4 +18,8 @@ If the path does not exist it will shit.
 See `repos.js` and `users.js`. We need a list of the homework repo names and the github usernames
 for each student...
 
+You will notice a file called `server.js` that is unused. One day we may have a server show some web ui stuff. Today is not that day.
+
+Also, this may not work on windows...
+
 ### DON'T BE A DICK AND PR CODE WITH LINTER ERRORS!!!
