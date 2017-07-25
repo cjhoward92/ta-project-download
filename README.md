@@ -22,4 +22,4 @@ You will notice a file called `server.js` that is unused. One day we may have a 
 
 Also, this may not work on windows...
 
-### DON'T BE A DICK AND PR CODE WITH LINTER ERRORS!!!
+### DON'T BE A LOSER AND PR CODE WITH LINTER ERRORS!!!

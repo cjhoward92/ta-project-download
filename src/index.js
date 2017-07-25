@@ -46,4 +46,4 @@ fse.stat(path)
   .then(() => start())
   .then(() => console.log('done'))
   .catch(err =>
-    console.log('Path is probably not good, bor, but check this err: ', err));
+    console.log('Path is probably not good, bro, but check this err: ', err));
