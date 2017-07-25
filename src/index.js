@@ -32,14 +32,20 @@ console.log('\n\n\nstarting process...');
 
 const start = () => {
   const clonePromises = [];
-  R.forEach((u) => {
+
+  const partialForEach =
+    R.forEach(u => buildClonePromisesForUser(u));
+  const partialReduce =
     R.reduce((acc, p) => {
       acc.push(p);
       return acc;
-    }, clonePromises, buildClonePromisesForUser(u));
-  }, users);
+    }, clonePromises);
 
-  return Promise.all(clonePromises);
+  const composed = R.pipe(
+    partialForEach,
+    partialReduce);
+
+  return Promise.all(composed(users));
 };
 
 fse.stat(path)
