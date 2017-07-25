@@ -5,7 +5,7 @@ const buildFolderForUser = async (basePath, user) => {
 
   try {
     console.log('making dir ', path);
-    await fse.mkdir(path);
+    await fse.ensureDir(path);
     return path;
   } catch (e) {
     console.log('could not make dir ', path);
