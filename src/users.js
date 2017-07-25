@@ -24,6 +24,7 @@ const userList = [
   'ptouche',
   'tjdolphin23',
   'coop741',
+  'YOSOYJESSEFUERTE',
 ];
 
 export default userList;
