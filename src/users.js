@@ -3,7 +3,6 @@ const userList = [
   'ItsOkayItsOfficial',
   'hellobetafish',
   'damiendshipp',
-  'FernandoHackett',
   'reillj',
   'keugenio',
   'map88az',
