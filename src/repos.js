@@ -5,6 +5,7 @@ const repoNames = [
   'Bootstrap-Portfolio',
   'Psychic-Game',
   'Hangman-Game',
+  'week-4-game',
 ];
 
 export default repoNames;
