@@ -20,7 +20,6 @@ const userList = [
   'kevinoros',
   'marcorules456',
   'skylarpowers',
-  'ptouche',
   'tjdolphin23',
   'coop741',
   'YOSOYJESSEFUERTE',
