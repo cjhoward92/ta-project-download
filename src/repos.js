@@ -6,6 +6,7 @@ const repoNames = [
   'Psychic-Game',
   'Hangman-Game',
   'week-4-game',
+  'TriviaGame',
 ];
 
 export default repoNames;
