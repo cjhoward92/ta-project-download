@@ -23,6 +23,7 @@ const userList = [
   'tjdolphin23',
   'coop741',
   'YOSOYJESSEFUERTE',
+  'cmasters22',
 ];
 
 export default userList;
