@@ -9,6 +9,7 @@ const repoNames = [
   'TriviaGame',
   'GifTastic',
   'RPS-multiplayer',
+  'liri-node-app',
 ];
 
 export default repoNames;
