@@ -10,6 +10,7 @@ const repoNames = [
   'GifTastic',
   'RPS-multiplayer',
   'liri-node-app',
+  'Flashcard-Generator',
 ];
 
 export default repoNames;
